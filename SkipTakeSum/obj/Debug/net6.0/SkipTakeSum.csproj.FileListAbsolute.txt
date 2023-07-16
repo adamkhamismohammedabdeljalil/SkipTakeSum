@@ -1,0 +1,15 @@
+C:\Users\ADAM K\source\repos\SkipTakeSum\SkipTakeSum\bin\Debug\net6.0\SkipTakeSum.exe
+C:\Users\ADAM K\source\repos\SkipTakeSum\SkipTakeSum\bin\Debug\net6.0\SkipTakeSum.deps.json
+C:\Users\ADAM K\source\repos\SkipTakeSum\SkipTakeSum\bin\Debug\net6.0\SkipTakeSum.runtimeconfig.json
+C:\Users\ADAM K\source\repos\SkipTakeSum\SkipTakeSum\bin\Debug\net6.0\SkipTakeSum.dll
+C:\Users\ADAM K\source\repos\SkipTakeSum\SkipTakeSum\bin\Debug\net6.0\SkipTakeSum.pdb
+C:\Users\ADAM K\source\repos\SkipTakeSum\SkipTakeSum\obj\Debug\net6.0\SkipTakeSum.csproj.AssemblyReference.cache
+C:\Users\ADAM K\source\repos\SkipTakeSum\SkipTakeSum\obj\Debug\net6.0\SkipTakeSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADAM K\source\repos\SkipTakeSum\SkipTakeSum\obj\Debug\net6.0\SkipTakeSum.AssemblyInfoInputs.cache
+C:\Users\ADAM K\source\repos\SkipTakeSum\SkipTakeSum\obj\Debug\net6.0\SkipTakeSum.AssemblyInfo.cs
+C:\Users\ADAM K\source\repos\SkipTakeSum\SkipTakeSum\obj\Debug\net6.0\SkipTakeSum.csproj.CoreCompileInputs.cache
+C:\Users\ADAM K\source\repos\SkipTakeSum\SkipTakeSum\obj\Debug\net6.0\SkipTakeSum.dll
+C:\Users\ADAM K\source\repos\SkipTakeSum\SkipTakeSum\obj\Debug\net6.0\refint\SkipTakeSum.dll
+C:\Users\ADAM K\source\repos\SkipTakeSum\SkipTakeSum\obj\Debug\net6.0\SkipTakeSum.pdb
+C:\Users\ADAM K\source\repos\SkipTakeSum\SkipTakeSum\obj\Debug\net6.0\SkipTakeSum.genruntimeconfig.cache
+C:\Users\ADAM K\source\repos\SkipTakeSum\SkipTakeSum\obj\Debug\net6.0\ref\SkipTakeSum.dll
