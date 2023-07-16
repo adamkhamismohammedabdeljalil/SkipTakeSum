@@ -6,5 +6,6 @@
         var skipTakeSum = new SkipTakeSumAvg();
         skipTakeSum.Sum(numbers);
         skipTakeSum.Avg(numbers);
+        skipTakeSum.Counting(numbers);
     }
 }

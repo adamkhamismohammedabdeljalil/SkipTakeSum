@@ -25,4 +25,14 @@ class SkipTakeSumAvg
         var average = numbers.Skip(skipValue).Take(takeValue).Average();
         Console.WriteLine($"Average :{average}");
     }
+
+    public void Counting(List<double> numbers)
+    {
+        Console.WriteLine("Enter skip value :");
+        int skipValue = int.Parse(Console.ReadLine());
+        Console.WriteLine("Enter take value:");
+        int takeValue = int.Parse(Console.ReadLine());
+        var count = numbers.Skip(skipValue).Take(takeValue).Count();
+        Console.WriteLine($"Total number of items :{count}");
+    }
 }
